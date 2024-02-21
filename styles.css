@@ -1,0 +1,43 @@
+body {
+    background-color: #ffc0cb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #ffc0cb;
+    color: white;
+}
+
+h2 {
+    color: purple;
+}
+
+.ingred {
+    color: rgb(59, 250, 254)
+}
+
+.dir {
+    color: rgb(88, 162, 88)
+}
+li {
+    color: white;
+}
+p {
+    color: purple;
+}
+#one {
+    background-color: rgb(139, 215, 247);
+}
+
+#two {
+    background-color: rgb(3, 166, 106);
+}
+
+#three {
+    background-color: rgb(228, 255, 93);
+}
+
+img {
+    height: 200px;
+    width: 200px
+}
